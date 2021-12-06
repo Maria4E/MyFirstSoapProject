@@ -1,0 +1,12 @@
+Status: FAILED
+Time Taken: 75
+Size: 0
+Timestamp: Mon Dec 06 09:38:45 CET 2021
+TestStep: Load properties from csv
+Error:groovy.lang.MissingMethodException: No signature of method: java.util.ArrayList.get() is applicable for argument types: (java.util.Arrays$ArrayList) values: [[personName, Newton]]
+Possible solutions: get(int), get(int), grep(), grep(), grep(), set(int, java.lang.Object)
+
+----------------- Messages ------------------------------
+groovy.lang.MissingMethodException: No signature of method: java.util.ArrayList.get() is applicable for argument types: (java.util.Arrays$ArrayList) values: [[personName, Newton]]
+Possible solutions: get(int), get(int), grep(), grep(), grep(), set(int, java.lang.Object)
+error at line: 15
